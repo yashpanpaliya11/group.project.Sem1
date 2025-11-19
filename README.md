@@ -29,23 +29,6 @@ Admin Features
 Layer	Technologies
 Frontend	HTML, CSS, JavaScript
 Other Tools	Git, VS Code, Postman
-📂 Project Structure
-/project-folder
-│── /assets
-│── /css
-│── /js
-│── /images
-│── index.html
-│── about.html
-│── policies.html
-│── contact.html
-│── admin/
-│     ├── dashboard.html
-│     ├── add-policy.html
-│     ├── manage-users.html
-│
-└── README.md
-
 
 🧑‍💻 Team Members
 
